@@ -32,8 +32,8 @@ nav a {
 }
 
 ul {
-  display: inline-block; 
-	text-align: center;
+  display: inline; 
+  text-align: center;
 }
 
 article {
