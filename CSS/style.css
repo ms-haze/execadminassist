@@ -38,7 +38,7 @@ li {
 
 article {
   text-align: center;
-  background-color: #E8D163;
+  background-color: #FFF;
   border: 1px white solid;
   padding: 20px;
 }
@@ -71,8 +71,8 @@ div {
 
 section {
   text-align: center;
-  background-color: #E8D163;
-  border: 1px white solid;
+  background-color: #FFF;
+  border: 1px black solid;
   padding: 20px;
 }
 
