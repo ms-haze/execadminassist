@@ -32,7 +32,7 @@ nav a {
 }
 
 ul {
-  text-align: center;
+  display: inline-block; text-align: left;
 }
 
 article {
