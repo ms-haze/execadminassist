@@ -32,8 +32,9 @@ nav a {
 }
 
 ul {
-  display: block; 
-  vertical-align: middle;
+  display: inline-block; 
+  text-align: center;
+  list-style: inside;
 }
 
 article {
