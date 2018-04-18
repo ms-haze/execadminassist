@@ -9,16 +9,16 @@ body{
 }
 	
 header {
-    background-color: #50228F;
+    background-color: #694362;
     border: 1px white solid;
     display: block;
-    color: white;
+    color: gold;
     padding: 0;
     margin: 0;
 }
 
 nav {
-    background-color: #50228F;
+    background-color: #694362F;
     border: 1px white solid;
 }
 
@@ -32,13 +32,14 @@ nav a {
 }
 
 ul {
-  display: inline; 
-  text-align: center;
+  display: inline-block; 
+  text-align: left;
+  list-style: inside;
 }
 
 article {
   text-align: center;
-  background-color: #E8D163;
+  background-color: #FFF;
   border: 1px white solid;
   padding: 20px;
 }
@@ -71,8 +72,8 @@ div {
 
 section {
   text-align: center;
-  background-color: #E8D163;
-  border: 1px white solid;
+  background-color: #FFF;
+  border: 1px black solid;
   padding: 20px;
 }
 
@@ -109,8 +110,8 @@ section {
 
 footer {
    text-align: center;
-   background-color: #FF957E;
+   background-color: #694362;
    border: 1px white solid;
-   font-size: 15px;
+   font-size: 10px;
    padding: 0;
 }
